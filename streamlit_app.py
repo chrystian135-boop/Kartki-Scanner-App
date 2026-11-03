@@ -1,3 +1,4 @@
+import os
 os.system("pip install google-generativeai pandas openpyxl pillow")
 import streamlit as str
 import google.generativeai as genai
