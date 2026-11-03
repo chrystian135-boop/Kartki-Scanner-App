@@ -1,7 +1,7 @@
 import os
-os.system("pip install google-generativeai pandas openpyxl pillow")
+os.system("pip install google-genai pandas openpyxl pillow")
 import streamlit as str
-import google.generativeai as genai
+import google.genai as genai
 import pandas as pd
 import json
 import io
