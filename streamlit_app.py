@@ -1,4 +1,3 @@
-python
 import streamlit as str
 import google.generativeai as genai
 import pandas as pd
