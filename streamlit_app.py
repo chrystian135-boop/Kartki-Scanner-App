@@ -1,5 +1,5 @@
 import os
-os.system("pip install google-genai pandas openpyxl pillow")
+os.system("pip install google-genai")
 import streamlit as str
 import google.genai as genai
 import pandas as pd
